@@ -11,10 +11,10 @@
 > * 封装紧凑，电阻电容均采用0402封装
 > * type-C接口CC引脚配有下拉电阻，可以使用C-to-C数据线烧录
 
-![1](/image/1.jpg)
-![2](/image/2.jpg)
-![3](/image/3.jpg)
-![4](/image/4.jpg)
+![1](/image/1.png)
+![2](/image/2.png)
+![3](/image/3.png)
+![4](/image/4.png)
 ![5](/image/5.png)
 ![6](/image/6.png)
 ![7](/image/7.png)
